@@ -1,0 +1,8 @@
+{
+  "name": "Memory Jar AI",
+  "description": "A dignified, voice-first memory assistant demo for university AI literacy.",
+  "requestFramePermissions": [
+    "microphone",
+    "geolocation"
+  ]
+}
